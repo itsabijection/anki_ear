@@ -2,7 +2,7 @@ This is a very basic set of tools for ear training. To use, make a new card temp
 
 ```playNotes([C#4, F4], 2);```
 
-with the answer "Minor third on the back". 
+with the answer "Minor third" on the back. 
 
 Better though, is to put something like ```a = randomNote(); playNotes([a, minthird(a)], 2);``` on the front, to avoid memorizing a particular interval and instead measure the sound of the interval itself.
 
