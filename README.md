@@ -4,7 +4,7 @@ This is a very basic set of tools for ear training. To use, make a new card temp
 
 with the answer "Minor third" on the back. 
 
-Better though, is to put something like ```a = randomNote(); playNotes([a, minthird(a)], 2);``` on the front, to avoid memorizing a particular interval and instead measure the sound of the interval itself.
+Better though, is to put something like ```a = randomNote(); playNotes([a, minthird(a)], 2);``` on the front, to avoid memorizing a particular interval and instead memorize the sound of the interval itself.
 
 Other options are 
 - ```majChord(root);```: plays 1-3-5
